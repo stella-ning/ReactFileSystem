@@ -1,0 +1,5 @@
+@charset "UTF-8";
+.bread-crumb{margin:20px 0;}
+.bread-crumb .ant-breadcrumb{font-size:16px;}
+.bread-crumb .ant-breadcrumb .anticon-home{padding-right:5px;}
+.ant-breadcrumb a{color:#7D6D6D;}
